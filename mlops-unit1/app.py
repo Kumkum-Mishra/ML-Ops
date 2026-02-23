@@ -16,3 +16,4 @@ print(df.info())
 
 print("\nStatistical Summary:")
 print(df.describe())
+print("\nDataset Shape:", df.shape)
